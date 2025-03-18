@@ -46,10 +46,14 @@ where `effective_diff` is the weighted sum of all these factors.
 
 ### 📊 Simulating the Bracket
 The tournament is simulated in two modes:
+
+The first mode is to run **N** realizations of the full bracket by running each game once
+
 1. **Single Tournament Run** – Runs one tournament and tracks winners.
 2. **Monte Carlo Mode** – Runs thousands of brackets and aggregates results.
 
-Each round follows these steps:
+The second mode is to compute the full bracket once, by running **N** realizations of each game;
+
 1. Compute **win probability** for each game.
 2. Simulate **N** games per matchup.
 3. **Advance most probable winners** to the next round.
