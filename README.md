@@ -2,6 +2,9 @@
 
 MarchMadSim is a Python-based Monte Carlo simulation for predicting outcomes in the NCAA March Madness tournament. Usings statistical modeling, team adjustments, and probabilistic methods, it runs thousands of tournament simulations to determine the most probable outcomes. 
 
+## Disclaimer
+This project is for entertainment and educational purposes only. No guarantees are made regarding the accuracy of predictions, and the results should not be used for betting or financial decisions. Additionally, parts of this project were developed with the assistance of AI language models, and no liability is assumed for any errors or outcomes.
+
 ## 📌 Features
 
 - 🏆 **Monte Carlo Tournament Simulations** – Simulates thousands of brackets to determine the most likely winners.
