@@ -110,6 +110,9 @@ params = {
 }
 ```
 
+## Data
+
+Optimized for data from https://kenpom.com
 
 ## 🤝 Contributing
 Want to improve MarchMadSim? Open a pull request or submit an issue!
