@@ -26,10 +26,7 @@ This project is for entertainment and educational purposes only. No guarantees a
    ```bash
    pip install -r requirements.txt
    ```
-3. Run the simulation:
-   ```bash
-   python simulate.py
-   ```
+3. Run the simulation, open Jupyter Notebook and run the provided ipynb file 
 
 ## 🛠 How It Works
 
