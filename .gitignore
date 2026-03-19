@@ -19,7 +19,8 @@ data/game_logs/
 # Secrets
 .secrets/
 
-# Generated outputs
+# Generated outputs — run train notebooks to produce these locally
+data/*.json
 submission_*.csv
 *.gz
 
