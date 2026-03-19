@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Kaggle data — download from Kaggle March Mania competition
+data/kaggle/
+
+# No longer used (KenPom / barttorvik caches)
+data/kenpom/
+data/barttorvik/
+data/game_logs/
+
+# Secrets
+.secrets/
+
+# Generated outputs
+submission_*.csv
+*.gz
+
+# macOS
+.DS_Store

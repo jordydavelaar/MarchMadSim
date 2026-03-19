@@ -1,6 +1,6 @@
 pandas
 numpy
-kagglehub
-collections
-random
 scipy
+scikit-learn
+kagglehub
+tqdm

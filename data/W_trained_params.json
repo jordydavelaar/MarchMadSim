@@ -1,0 +1,22 @@
+{
+  "shock_df": 5.014289923378358,
+  "shock_scale": 0.07690811623857112,
+  "recent_form_weight": 0.0,
+  "trajectory_weight": 0.0,
+  "luck_weight": 0.0,
+  "conf_tourney_weight": 0.05,
+  "seed_prior_weight": 0.20913238929080616,
+  "neutral_win_pct_weight": 0.0,
+  "coach_exp_weight": 0.0,
+  "w_efg": 0.01397089215285142,
+  "w_to": -0.002025424136510365,
+  "w_orb": 0.015595440531319827,
+  "w_ftr": -0.008237479477529912,
+  "fatigue_per_close_game": 0.03,
+  "fatigue_decay_between_rounds": 0.5,
+  "fatigue_cap": 1.25,
+  "league_avg_adj_o": 110.0,
+  "league_avg_adj_t": 68.0,
+  "margin_scale": 70.00953311353065,
+  "temperature": 0.9697673310153705
+}
